@@ -39,7 +39,6 @@
 
 #### Systèmes et Langages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-<!-- ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) -->
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-Windows%20Subsystem%20for%20Linux-blue?style=flat&logo=windows)
@@ -49,6 +48,7 @@
 ![Valgrind](https://img.shields.io/badge/Valgrind-Memory_Profiling-purple?style=flat-square)
 ![GDB](https://img.shields.io/badge/GDB-Debugging-darkred?style=flat-square)
 ![GCC / Make](https://img.shields.io/badge/GCC%20%2F%20GNU%20Make-Build_Tools-blue?style=flat-square) 
+<!-- ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) -->
 
 #### Cybersécurité et Réseaux
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Modèle_OSI-005b96?style=flat-square)
@@ -70,7 +70,7 @@
 
 ### Outils et IA
 
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Antigravity CLI](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![AI Workflows](https://img.shields.io/badge/AI%20Workflows-6366F1?style=flat-square&logo=openai&logoColor=white)
 
 #### Compétence de labo
@@ -81,8 +81,8 @@
 
 ---
 
-### Projets mis en avant
-
+### Projets mis en avant (mis en place bientôt)
+<!--
 | Projet | Description | Technologies |
 | :--- | :--- | :--- |
 | 🌐 **[Portfolio Personnel](https://perso.isima.fr/~nagadaix/)** | Site vitrine moderne, ultra-léger et éco-conçu (Dark/Light mode, score Lighthouse 100%, responsive, zéro dépendance). | `HTML5` `CSS3` `Vanilla JS` `Lighthouse` |
@@ -90,7 +90,7 @@
 | 🤖 **[Projet ZZ1 — Systèmes Multi-Agents](https://github.com/lyko27/projet-zz1-groupe8)** | Modélisation et simulation d'un système multi-agents interactif avec mode manuel et automatique, gestion d'entités autonomes et documentation Doxygen. | `C` `SDL2` `Make` `Doxygen` |
 | 🔬 **Modélisation & Simulation (TIPE CPGE)** | Modélisation de systèmes dynamiques physiques et résolution numérique d'équations différentielles en prépa scientifique. | `Python` `NumPy` `Matplotlib` |
 | 🖨️ **Conception 3D & Prototypage Maker** | Modélisation CAO de pièces mécaniques et boîtiers sur mesure, ajustement des tolérances et fabrication additive PLA. | `CAO` `Impression 3D` `Slicing` `Électronique` |
-
+-->
 ---
 
 ### Contactez moi :
