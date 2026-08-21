@@ -1,4 +1,4 @@
-# Salut je suis Natéo 👋
+# Salut je suis Natéo :open_hands:
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 ---
 
-### Objectif courant : Recherche de Stage
+### :exclamation: :exclamation: Objectif courant : Recherche de Stage
 
 > **Je suis à la recherche d'un stage dans le cadre de mon diplôme d'ingénieur de 4 à 6 mois — de Mars à Août 2027**  
 > **Spécialisations visées :** Cybersécurité, Développement Bas Niveau (C / C++), Systèmes Linux & Architecture Réseau...  
