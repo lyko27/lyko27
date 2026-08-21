@@ -26,10 +26,10 @@
 - **2 ans de CPGE PSI** (Classe Préparatoire aux grandes écoles, *filière :* Physique - Science de l'ingénieur. au Lycée Alphonse Daudet, Nîmes) : socle solide en mathématiques, modélisation physique, automatique et algorithmique.
 - **Intérêts techniques :** Développement système, sécurité offensive/défensive, programmation IA.
 - **Hobbies :** 
-  **12 ans de scoutisme** Gestion de projets en autonomie complète, esprit d'équipe, rigueur, prise d'initiative et réactivité face aux imprévus.
-  **Jeux vidéo** Gros joeur de jeux solo, passioné par les histoires racontées par les developers et l'immersion dans ces dernière. Je regarde aussi beaucoup d'esport sur les jeux en ligne compétitif
-  **Formule 1** Très interessé par le sport de haut niveau en génrale depuis longtemps, la formule 1 réuni les aspects technique et ingénieux de l'automobile et de la de la performance athlétique des pilotes.
-  **Sciences** Enfin je suis très curieux des progrès techniques et scientifiques qui permettent de mieux comprendre notre monde chaque jour, des missions spacial dans l'univers à la microbiologie de la medecine.
+  - **12 ans de scoutisme** Gestion de projets en autonomie complète, esprit d'équipe, rigueur, prise d'initiative et réactivité face aux imprévus.
+  - **Jeux vidéo** Gros joeur de jeux solo, passioné par les histoires racontées par les developers et l'immersion dans ces dernière. Je regarde aussi beaucoup d'esport sur les jeux en ligne compétitif
+  - **Formule 1** Très interessé par le sport de haut niveau en génrale depuis longtemps, la formule 1 réuni les aspects technique et ingénieux de l'automobile et de la de la performance athlétique des pilotes.
+  - **Sciences** Enfin je suis très curieux des progrès techniques et scientifiques qui permettent de mieux comprendre notre monde chaque jour, des missions spacial dans l'univers à la microbiologie de la medecine.
 
 *Vous savez à présent beaucoup sur moi laisse moi en savoir plus sur vous et contactez moi ^^*
 
