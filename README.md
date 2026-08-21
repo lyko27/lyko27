@@ -70,7 +70,7 @@
 
 ### Outils et IA
 
-![Antigravity CLI](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Antigravity CLI](https://img.shields.io/badge/Antigravity%20CLI-aa69b9?style=flat-square&logo=gnubash&logoColor=yellow)
 ![AI Workflows](https://img.shields.io/badge/AI%20Workflows-6366F1?style=flat-square&logo=openai&logoColor=white)
 
 #### Compétence de labo
