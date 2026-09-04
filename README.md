@@ -22,7 +22,7 @@
 ### À propos de moi
 
 - 🎓 **Étudiant en Grande école d'Ingénieur en Informatique** à l'**ISIMA** (Clermont Auvergne INP) — Promotion 2028.  
-  *Filière visée : F5 — Cybersécurité & Réseaux.*
+  *Filière : F5 — Cybersécurité & Réseaux. Labélisé **SecNumEdu** par l'ANSSI*
 - **2 ans de CPGE PSI** (Classe Préparatoire aux grandes écoles, *filière :* Physique - Science de l'ingénieur. au Lycée Alphonse Daudet, Nîmes) : socle solide en mathématiques, modélisation physique, automatique et algorithmique.
 - **Intérêts techniques :** Développement système, sécurité offensive/défensive, programmation IA.
 - **Hobbies :** 
