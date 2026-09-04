@@ -85,12 +85,12 @@
 
 | Projet | Description | Technologies |
 | :--- | :--- | :--- |
-| 🤖 **[EcoSim-RL — Système Multi-Agents & Apprentissage par Renforcement](https://github.com/lyko27/Jeu-SMA-Reinforce)** | Simulation 2D d'un écosystème prédateurs-proies en C avec algorithme REINFORCE, multi-threading POSIX (`pthreads`), rendu SDL2 temps réel et modes manuel/autonome. | `C` `SDL2` `POSIX Threads` `RL (REINFORCE)` `GNU Make` `Doxygen` |
-| 📊 **[ClassFlow — Répartiteur de Classes Intelligent](https://github.com/lyko27/fait_une_classe)** | Solution web client-side d'optimisation combinatoire (CSP & Union-Find) pour la constitution et l'équilibrage de classes scolaires avec import/export Excel. | `JavaScript ES6` `Algorithmique (CSP)` `HTML5/CSS3` `RGPD` |
-| 🤖 **[Multi-Agent Workflow — Antigravity CLI](https://github.com/lyko27/worflow-AI)** | Scripts d'orchestration et gouvernance pour le développement assisté par agents IA spécialisés et tests visuels Playwright. | `Bash` `Antigravity CLI` `Playwright` `Multi-Agent` |
-| 🌐 **[Portfolio Personnel](https://perso.isima.fr/~nagadaix/)** | Site vitrine moderne, ultra-léger et éco-conçu (Dark/Light mode, score Lighthouse 100%, responsive, zéro dépendance). | `HTML5` `CSS3` `Vanilla JS` `Lighthouse` |
-| 🔬 **Modélisation & Simulation (TIPE CPGE)** | Modélisation de systèmes dynamiques physiques et résolution numérique d'équations différentielles en prépa scientifique. | `Python` `NumPy` `Matplotlib` |
-| 🖨️ **Conception 3D & Prototypage Maker** | Modélisation CAO de pièces mécaniques et boîtiers sur mesure, ajustement des tolérances et fabrication additive PLA. | `CAO` `Impression 3D` `Slicing` `Électronique` |
+| **[Système Multi-Agents et Apprentissage par Renforcement](https://github.com/lyko27/Jeu-SMA-Reinforce)** | Simulation 2D d'un écosystème prédateurs-proies en C avec algorithme REINFORCE, multi-threading POSIX (`pthreads`), rendu SDL2 temps réel et modes manuel/autonome. | `C` `SDL2` `POSIX Threads` `RL (REINFORCE)` `GNU Make` `Doxygen` |
+| **[ClassFlow Répartiteur de Classes Intelligent](https://github.com/lyko27/fait_une_classe)** | Solution web client-side d'optimisation combinatoire (CSP & Union-Find) pour la constitution et l'équilibrage de classes scolaires avec import/export Excel. | `JavaScript ES6` `Algorithmique (CSP)` `HTML5/CSS3` `RGPD` |
+| **[Multi-Agent Workflow, Antigravity CLI](https://github.com/lyko27/worflow-AI)** | Scripts d'orchestration et gouvernance pour le développement assisté par agents IA spécialisés et tests visuels Playwright. | `Bash` `Antigravity CLI` `Playwright` `Multi-Agent` |
+| **[Portfolio Personnel](https://perso.isima.fr/~nagadaix/)** | Site vitrine moderne, ultra-léger et éco-conçu (Dark/Light mode, score Lighthouse 100%, responsive, zéro dépendance). | `HTML5` `CSS3` `Vanilla JS` `Lighthouse` |
+| **Modélisation & Simulation (TIPE CPGE)** | Modélisation de systèmes dynamiques physiques et résolution numérique d'équations différentielles en prépa scientifique. | `Python` `NumPy` `Matplotlib` |
+| **Conception 3D & Prototypage Maker** | Modélisation CAO de pièces mécaniques et boîtiers sur mesure, ajustement des tolérances et fabrication additive PLA. | `CAO` `Impression 3D` `Slicing` `Électronique` |
 ---
 
 ### Contactez moi :
