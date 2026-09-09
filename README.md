@@ -101,3 +101,5 @@
 - **Portfolio :** [perso.isima.fr/~nagadaix](https://perso.isima.fr/~nagadaix/)
 - **Email universitaire :** [nateo.gadaix@etu.isima.fr](mailto:nateo.gadaix@etu.isima.fr)
 - **CV complet :** Téléchargeable directement depuis mon [portfolio en ligne](https://perso.isima.fr/~nagadaix/).
+
+*Une partie des README et de la documentation a pu être générée par IA, mais a été relue par mes soins en toute transparence. Natéo ^^*
