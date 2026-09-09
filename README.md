@@ -1,3 +1,12 @@
+### :exclamation: Objectif courant : Recherche de Stage
+
+> **Je suis à la recherche d'un stage dans le cadre de mon diplôme d'ingénieur de 4 à 6 mois de Mars à Août 2027 en France où de Janvier à Août 2027 à l'étranger.**  
+> **Spécialisations visées :** Cybersécurité, Développement Bas Niveau (C), Systèmes Linux & Architecture Réseau...  
+> **Basé à :** Clermont-Ferrand, Montpellier 
+> **Mobilité du stage :** France, Genève ou Pays étranger - Ouvert au télétravail.
+
+---
+
 # Salut je suis Natéo :open_hands:
 
 <div align="center">
@@ -7,15 +16,6 @@
 [![Email](https://img.shields.io/badge/Contact-nateo.gadaix%40etu.isima.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nateo.gadaix@etu.isima.fr)
 
 </div>
-
----
-
-### :exclamation::exclamation: Objectif courant : Recherche de Stage
-
-> **Je suis à la recherche d'un stage dans le cadre de mon diplôme d'ingénieur de 4 à 6 mois — de Mars à Août 2027**  
-> **Spécialisations visées :** Cybersécurité, Développement Bas Niveau (C), Systèmes Linux & Architecture Réseau...  
-> **Basé à :** Clermont-Ferrand, Montpellier 
-> **Mobilité du stage :** France ou Pays étranger - Ouvert au télétravail.
 
 ---
 
@@ -72,6 +72,8 @@
 
 ![Antigravity CLI](https://img.shields.io/badge/Antigravity%20CLI-aa69b9?style=flat-square&logo=gnubash&logoColor=yellow)
 ![AI Workflows](https://img.shields.io/badge/AI%20Workflows-6366F1?style=flat-square&logo=openai&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-000000?style=flat-square&logo=playwright&logoColor=white)
+![Opencode](https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=opencode&logoColor=white)
 
 #### Compétence de labo
 
